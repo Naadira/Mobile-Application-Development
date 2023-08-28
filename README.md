@@ -45,19 +45,18 @@ Registeration Number : 212221220034
                android:layout_height="match_parent"
                tools:context=".MainActivity">
            <TextView
-               android:layout_width="238dp"
-               android:layout_height="105dp"
-               android:text="Hello World!"
-               android:textSize="100px"
+               android:layout_width="207dp"
+               android:layout_height="65dp"
+               android:text="Hello World!\nThis is Naadira here!!!"
+               android:textSize="20dp"
                android:textStyle="italic"
                app:layout_constraintBottom_toBottomOf="parent"
                app:layout_constraintEnd_toEndOf="parent"
-               app:layout_constraintHorizontal_bias="0.591"
+               app:layout_constraintHorizontal_bias="0.496"
                app:layout_constraintStart_toStartOf="parent"
                app:layout_constraintTop_toTopOf="parent"
-               app:layout_constraintVertical_bias="0.499" />
-           </androidx.constraintlayout.widget.ConstraintLayout>
-
+               app:layout_constraintVertical_bias="0.475" />
+          </androidx.constraintlayout.widget.ConstraintLayout>
 ## MainActivity.Java
 
            package com.example.helloworld;
@@ -113,14 +112,13 @@ Registeration Number : 212221220034
                 }
                 
 ## OUTPUT
+![Screenshot (135)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/c748d2ab-9116-4629-aa2f-4892b8006208)
 
-![Screenshot (127)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/3abe1421-5d49-4e8c-bc84-45092bad5d78)
+![Screenshot (136)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/a681a20e-369b-468e-aba5-5c694c47a1d7)
 
-![Screenshot (128)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/4e6879c8-5810-4226-a590-fe596a88c390)
+![Screenshot (140)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/e82f8256-d9eb-410d-9ba6-71fe9db3b74b)
 
-![Screenshot (134)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/92ab78d1-9e56-4d8e-a8ab-25300412a929)
-
-![Screenshot (125)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/04a4f9d8-825b-4455-88d2-ea64958ac989)
+![Screenshot (139)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/5f632fc6-d485-4a6c-a33f-7c84060e5f5a)
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
