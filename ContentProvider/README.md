@@ -35,7 +35,7 @@ Registeration Number : 212221220034
 */
 ```
 ## AndroidManifest.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
@@ -62,9 +62,9 @@ Registeration Number : 212221220034
     </application>
 
 </manifest>
-
+```
 ## activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -85,9 +85,9 @@ Registeration Number : 212221220034
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 ## MainActvity.java:
-
+```
 package com.example.contentprovider;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
         getPhoneContacts();
     }
 }
-
+```
 ## OUTPUT:
 
 
