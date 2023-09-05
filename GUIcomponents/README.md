@@ -36,7 +36,7 @@ Developed by: NAADIRA SAHAR N
 Registeration Number : 212221220034
 */
 ```
-##activity_main.xml:
+## activity_main.xml:
 
     <?xml version="1.0" encoding="utf-8"?>
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -121,7 +121,7 @@ Registeration Number : 212221220034
     </LinearLayout>
 </LinearLayout>
 
-##MainActivity.java:
+## MainActivity.java:
 
     package com.example.guicomponents;
     import androidx.appcompat.app.AppCompatActivity;
@@ -264,6 +264,7 @@ Registeration Number : 212221220034
 
 ![Screenshot (157)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/c647eb15-b8a4-4cff-9f67-7625c833bf8f)
 
+![WhatsApp Image 2023-09-05 at 11 02 31 AM](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/0f3f1654-3df0-49a9-acbc-e6af3f9e6733)
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
