@@ -93,10 +93,46 @@ tools:context=".MainActivity">
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
+## MainActivity.java:
+```
+package com.example.implicitintent;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
+import android.net.Uri;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+
+public class MainActivity extends AppCompatActivity {
+Button button;
+EditText e1;
+
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_main);
+
+    button = findViewById(R.id.button);
+    e1 = findViewById(R.id.E1);
+    button.setOnClickListener(view -> {
+        String url = e1.getText().toString();
+        Intent i1 = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+        startActivity(i1);
+    });
+}
+}
+```
+
 ## OUTPUT:
 
+![image](https://github.com/D-I-V-Y-A-S/Mobile-Application-Development/assets/141506417/491e5dc0-7a20-4280-887c-5b8f5447538a)
 
+![image](https://github.com/D-I-V-Y-A-S/Mobile-Application-Development/assets/141506417/0074ffaf-4f3b-451c-b565-8c360b2f862d)
 
+![image](https://github.com/D-I-V-Y-A-S/Mobile-Application-Development/assets/141506417/20cbaed7-9213-4dfb-941e-55a64cee3aed)
 
 ## RESULT:
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the google page using Android Studio is developed and executed successfully.
