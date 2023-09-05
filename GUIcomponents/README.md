@@ -263,7 +263,7 @@ Registeration Number : 212221220034
 
 ![Screenshot (157)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/c647eb15-b8a4-4cff-9f67-7625c833bf8f)
 
-![WhatsApp Image 2023-09-05 at 11 02 31 AM](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/0f3f1654-3df0-49a9-acbc-e6af3f9e6733)
+![WhatsApp Image 2023-09-05 at 2 29 08 PM (1)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/7c03ca32-d37b-4bec-91e2-5884e2745c6a)
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
