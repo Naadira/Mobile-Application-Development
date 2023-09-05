@@ -222,13 +222,13 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-https://user-images.githubusercontent.com/119641638/240836759-59f0a848-5d51-43ec-97d8-e7ff2e886b0b.png
+<img src = "https://user-images.githubusercontent.com/119641638/240836759-59f0a848-5d51-43ec-97d8-e7ff2e886b0b.png" alt="fact" width="50%" height="auto">
 
-https://user-images.githubusercontent.com/119641638/240836859-c2bff05c-91f8-4e05-8654-634292e84e28.png
+<img src = "https://user-images.githubusercontent.com/119641638/240836859-c2bff05c-91f8-4e05-8654-634292e84e28.png" alt="fact" width="50%" height="auto">
 
-https://user-images.githubusercontent.com/119641638/240836966-351a90e1-3b66-4654-af78-235d0fbe16bf.png
+<img src = "https://user-images.githubusercontent.com/119641638/240836966-351a90e1-3b66-4654-af78-235d0fbe16bf.png" alt="fact" width="50%" height="auto">
 
-https://user-images.githubusercontent.com/119641638/240837066-d4b12871-0621-4ada-af5c-8d724e676121.png
+<img src = "https://user-images.githubusercontent.com/119641638/240837066-d4b12871-0621-4ada-af5c-8d724e676121.png" alt="fact" width="50%" height="auto">
 
 <img src = "https://user-images.githubusercontent.com/119641638/240837826-ae9fc1a6-8344-4364-ba35-9cddcc690699.jpg" alt="fact" width="50%" height="auto">
 <img src = "https://user-images.githubusercontent.com/119641638/240837834-ae89a2a5-f6d5-44d6-b61e-7b7e71b3221f.jpg" alt="fact" width="50%" height="auto">
