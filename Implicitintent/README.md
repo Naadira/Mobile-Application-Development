@@ -95,7 +95,7 @@ tools:context=".MainActivity">
 
 ## MainActivity.java:
 ```
-package com.example.implicitintent;
+package com.example.intent_implementation;
 
 import androidx.appcompat.app.AppCompatActivity;
 
