@@ -132,8 +132,10 @@ public class MainActivity extends AppCompatActivity {
         if(cursor.getCount() > 0)
         {
             while(cursor.moveToNext()){
-                @SuppressLint("Range") String contactName = cursor.getString(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME));
-                @SuppressLint("Range") String contactNumber = cursor.getString(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER));
+                @SuppressLint("Range") String contactName = cursor.getString
+                              (cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME));
+                @SuppressLint("Range") String contactNumber = cursor.getString
+                              (cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER));
                 Log.i("Content_provider_demo","Name: # "+contactName+"Number: # "+contactNumber);
             }
 
