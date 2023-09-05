@@ -254,7 +254,7 @@ Registeration Number : 212221220034
             }
         });
     }
-}
+ }
 
 ## OUTPUT:
 
