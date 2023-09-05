@@ -120,9 +120,9 @@ Registeration Number : 212221220034
 
 ![Screenshot (139)](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/5f632fc6-d485-4a6c-a33f-7c84060e5f5a)
 
-<img src= "https://github.com/Naadira/Mobile-Application-Development/assets/128135126/dc893234-64f2-49f8-924a-61c44ff32445" alt="hw" width="50%" height="auto">
+<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/4f7c688f-7f57-4c0e-932d-fd41a35bc410" alt="hw" width="50%" height="auto">
 
-<img src= "https://github.com/Naadira/Mobile-Application-Development/assets/128135126/b15438eb-6630-45a2-96dc-5098a23a57d3" alt="hello" width="50%" height="auto">
+<img src= "https://github.com/Naadira/Mobile-Application-Development/assets/128135126/2cdd6978-c591-423d-be30-f27a8ce7516c" alt="hello" width="50%" height="auto">
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
