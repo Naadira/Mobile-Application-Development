@@ -35,7 +35,7 @@ Registeration Number : 212221220034
 */
 ```
 ## AndroidManifest.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
@@ -68,9 +68,9 @@ Registeration Number : 212221220034
         </activity>
     </application>
 </manifest>
-
+```
 ## activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -138,9 +138,9 @@ Registeration Number : 212221220034
         app:layout_constraintVertical_bias="0.161" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 ## MainActivity.java:
-
+```
 package com.example.smsintent;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -193,6 +193,8 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+```
+
 ## OUTPUT:
 
 
