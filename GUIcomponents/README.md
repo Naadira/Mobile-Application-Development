@@ -123,15 +123,15 @@ Registeration Number : 212221220034
 
 ##MainActivity.java:
 
-package com.example.guicomponents;
-import androidx.appcompat.app.AppCompatActivity;
-import android.graphics.Color;
-import android.graphics.Typeface;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.TextView;
-public class MainActivity extends AppCompatActivity {
+    package com.example.guicomponents;
+    import androidx.appcompat.app.AppCompatActivity;
+    import android.graphics.Color;
+    import android.graphics.Typeface;
+    import android.os.Bundle;
+    import android.view.View;
+    import android.widget.Button;
+    import android.widget.TextView;
+    public class MainActivity extends AppCompatActivity {
     int ch = 1;
     float font = 30;
     @Override
