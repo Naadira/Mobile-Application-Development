@@ -204,5 +204,7 @@ public class MainActivity extends AppCompatActivity {
 
 <img src= "https://user-images.githubusercontent.com/121661327/242388725-f29aca38-64c6-4948-a3a1-458b0a58612f.png" alt="hi" width="50%" height="auto">
 
+<img src= = "https://user-images.githubusercontent.com/121245222/242267122-53151f8e-96f7-4dc7-88bd-c5e2c9c0f80f.png" alt="hii" width="50%" height="auto">
+
 ## RESULT:
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
