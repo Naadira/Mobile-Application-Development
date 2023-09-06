@@ -148,11 +148,11 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT:
-https://user-images.githubusercontent.com/119641638/241371722-11a53807-3225-4d7b-a5ca-6c611e750438.png
+<img src= "https://user-images.githubusercontent.com/119641638/241371722-11a53807-3225-4d7b-a5ca-6c611e750438.png" alt="hee" width="70%" height="auto">
 
-https://user-images.githubusercontent.com/119641638/241371745-ba23156d-0d19-4be6-a635-7d5528ccac19.png
+<img src= "https://user-images.githubusercontent.com/119641638/241371745-ba23156d-0d19-4be6-a635-7d5528ccac19.png" alt="hee" width="70%" height="auto">
 
-https://user-images.githubusercontent.com/119641638/241372408-800ce4d6-2d7d-410a-9da9-25058503215d.png
+<img src= "https://user-images.githubusercontent.com/119641638/241372408-800ce4d6-2d7d-410a-9da9-25058503215d.png" alt="hee" width="70%" height="auto">
 
 <img src= "https://user-images.githubusercontent.com/127511817/265640677-4af2b7ca-eec5-4d40-beb0-3f3df4653bed.png" alt="hi" width="50%" height="auto">
 
