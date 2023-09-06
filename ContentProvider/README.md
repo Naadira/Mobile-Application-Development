@@ -148,9 +148,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT:
-<img src= "https://user-images.githubusercontent.com/127511817/265640677-4af2b7ca-eec5-4d40-beb0-3f3df4653bed.png" alt="hi" width="20%" height="auto">
-https://user-images.githubusercontent.com/127511817/265640739-891d2c00-0921-405e-ab43-4dc7372f1c12.png
-https://user-images.githubusercontent.com/127511817/265640795-e01cbe16-fe2a-4967-a15b-e4ca54192278.png
+<img src= "https://user-images.githubusercontent.com/127511817/265640677-4af2b7ca-eec5-4d40-beb0-3f3df4653bed.png" alt="hi" width="50%" height="auto">
+<img src= "https://user-images.githubusercontent.com/127511817/265640739-891d2c00-0921-405e-ab43-4dc7372f1c12.png" alt="hee" width="50%" height="auto">
+<img src= "https://user-images.githubusercontent.com/127511817/265640795-e01cbe16-fe2a-4967-a15b-e4ca54192278.png" alt="he" width="50%" height="auto">
 
 ## RESULT:
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
