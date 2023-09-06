@@ -196,15 +196,15 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-<img src="https://user-images.githubusercontent.com/119641638/241371745-ba23156d-0d19-4be6-a635-7d5528ccac19.png" alt="hi" width=50%" height="auto">
+<img src="https://user-images.githubusercontent.com/119641638/241371745-ba23156d-0d19-4be6-a635-7d5528ccac19.png" alt="hi" width="50%" height="auto">
 
-<img src="https://user-images.githubusercontent.com/121661327/242388615-520ee8a3-0873-4151-a84a-e3a13c945457.png" alt="hi" width=50%" height="auto">
+<img src="https://user-images.githubusercontent.com/121661327/242388615-520ee8a3-0873-4151-a84a-e3a13c945457.png" alt="hi" width="50%" height="auto">
 
-<img src="https://user-images.githubusercontent.com/121661327/242388684-1fe0b83a-6f77-468e-ba5e-72fb85842ec9.png" alt="hi" width=50%" height="auto">
+<img src="https://user-images.githubusercontent.com/121661327/242388684-1fe0b83a-6f77-468e-ba5e-72fb85842ec9.png" alt="hi" width="50%" height="auto">
 
-<img src="https://user-images.githubusercontent.com/121661327/242388725-f29aca38-64c6-4948-a3a1-458b0a58612f.png" alt="hi" width=50%" height="auto">
+<img src="https://user-images.githubusercontent.com/121661327/242388725-f29aca38-64c6-4948-a3a1-458b0a58612f.png" alt="hi" width="50%" height="auto">
 
-<img src="https://user-images.githubusercontent.com/121661327/242388725-f29aca38-64c6-4948-a3a1-458b0a58612f.png" alt="hi" width=50%" height="auto">
+<img src="https://user-images.githubusercontent.com/121661327/242388725-f29aca38-64c6-4948-a3a1-458b0a58612f.png" alt="hi" width="50%" height="auto">
 
 ## RESULT:
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
