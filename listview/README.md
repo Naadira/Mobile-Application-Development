@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by: HARI HARAN L K
-Registeration Number : 212221040051
+Developed by: NAADIRA SAHAR N
+Registeration Number : 212221220034
 */
 ```
 **XML FILE:**
