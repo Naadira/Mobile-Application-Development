@@ -33,7 +33,7 @@ Developed by: NAADIRA SAHAR N
 Registeration Number : 212221220034
 */
 ```
-**XML FILE:**
+**activity_main.xml:**
 
     <?xml version="1.0" encoding="utf-8"?>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -53,7 +53,7 @@ Registeration Number : 212221220034
         app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
     
-**MyList.xml:**
+**myList.xml:**
     
     <?xml version="1.0" encoding="utf-8"?>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -100,7 +100,8 @@ Registeration Number : 212221220034
 
     </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
-**MAIN ACTIVITY.JAVA:**
+    
+**MainActivity.java:**
 
     package com.example.place_names;
 
@@ -214,7 +215,7 @@ Registeration Number : 212221220034
         return rowView;
     };
     }
-## OUTPUT
+## OUTPUT:
    
    ![Main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/da8945d1-3ed5-4d3e-8ca5-2ffe0db827ce) <br>
    ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/508ca973-0dda-4e64-ac14-9e5023b5ace6) <br>
@@ -224,5 +225,5 @@ Registeration Number : 212221220034
    <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-## RESULT
+## RESULT:
 Thus a Simple Android Application to create and develop the application to display the place name with image using list view in android studio is developed and executed successfully.
