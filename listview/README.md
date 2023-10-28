@@ -218,7 +218,7 @@ Registeration Number : 212221220034
 ## OUTPUT:
    
    ![Main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/da8945d1-3ed5-4d3e-8ca5-2ffe0db827ce) <br> <br>
-   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/508ca973-0dda-4e64-ac14-9e5023b5ace6) <br> <br>
+   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/508ca973-0dda-4e64-ac14-9e5023b5ace6) <br> 
    <img src = "https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/c223aae1-83e9-483c-b1de-b20dfd0e5fca" alt="fact" width="70%" height="auto"> <br> <br>
    <img src ="https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/c387505a-0d4e-4bd6-b1b4-990741446492" alt="fac" width="70%" height="auto">   <br>
    
