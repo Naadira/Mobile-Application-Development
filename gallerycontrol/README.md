@@ -73,9 +73,7 @@ Registeration Number : 212221220034
 **MainActivity.java:**
 
     package com.example.galleryview;
-
     import androidx.appcompat.app.AppCompatActivity;
-
     import android.os.Bundle;
     import android.view.View;
     import android.widget.AdapterView;
@@ -107,7 +105,6 @@ Registeration Number : 212221220034
 **CustomizedGalleryAdapter Code:**
 
     package com.example.galleryview;
-
     import android.content.Context;
     import android.view.View;
     import android.view.ViewGroup;
