@@ -106,7 +106,7 @@ Registeration Number : 212221220034
 
 **CustomizedGalleryAdapter Code:**
 
-      package com.example.galleryview;
+    package com.example.galleryview;
 
     import android.content.Context;
     import android.view.View;
