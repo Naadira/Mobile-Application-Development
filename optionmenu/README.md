@@ -56,7 +56,7 @@ Registeration Number : 212221220034
         tools:srcCompat="@tools:sample/avatars" />
     </androidx.constraintlayout.widget.ConstraintLayout>
     
-**option_xml:**
+**option.xml:**
 
     <?xml version="1.0" encoding="utf-8"?>
     <menu xmlns:android="http://schemas.android.com/apk/res/android">
