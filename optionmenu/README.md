@@ -53,7 +53,7 @@ Registeration Number : 212221220034
     </menu>
 **MAIN ACTIVITY CODE:**
 
-      package com.example.menuapp;
+    package com.example.menuapp;
 
     import androidx.appcompat.app.AppCompatActivity;
 
