@@ -34,7 +34,7 @@ Developed by: NAADIRA SAHAR N
 Registeration Number : 212221220034
 */
 ```
-**XML FILE:**
+**activity_xml:**
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -55,7 +55,7 @@ Registeration Number : 212221220034
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-**MAIN ACTIVITY CODE:**
+**MainActivity.java:**
 ```
 package com.example.basicgraphics;
 
