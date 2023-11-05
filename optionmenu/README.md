@@ -10,8 +10,21 @@ To create a option menu to display menu items using Android Studio.
 Latest Version Android Studio
 
 ## ALGORITHM:
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
+Step 2: Then type the Application name as OptionMenu and click Next.
 
+Step 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout in activity_main.xml.
+
+Step 6: Create a option.xml file to create options in your menu.
+
+Step 7: Display options in MainActivity file.
+
+Step 8: Save and run the application.
 
 ## PROGRAM:
 ```
@@ -21,7 +34,7 @@ Developed by: NAADIRA SAHAR N
 Registeration Number : 212221220034
 */
 ```
-**XML CODE:**
+**activity_xml:**
 
     <?xml version="1.0" encoding="utf-8"?>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -43,7 +56,7 @@ Registeration Number : 212221220034
         tools:srcCompat="@tools:sample/avatars" />
     </androidx.constraintlayout.widget.ConstraintLayout>
     
-**OPTION XML CODE:**
+**option_xml:**
 
     <?xml version="1.0" encoding="utf-8"?>
     <menu xmlns:android="http://schemas.android.com/apk/res/android">
@@ -51,7 +64,7 @@ Registeration Number : 212221220034
     <item android:title="PRIME 2" />
     <item android:title="PRIME 3" />
     </menu>
-**MAIN ACTIVITY CODE:**
+**MainActivity.java:**
 
     package com.example.menuapp;
 
