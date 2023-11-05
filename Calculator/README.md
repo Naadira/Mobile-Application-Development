@@ -178,15 +178,15 @@ Registeration Number : 212221220034
 
 ![image](https://github.com/Naadira/Mobile-Application-Development/assets/128135126/59be1c05-4753-4023-bab4-b658aedd905c)
 
-<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/6f47b59f-45ab-4123-8f6b-1348bd92103f" alt ="hi" width="95%" height="70%">
+<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/6f47b59f-45ab-4123-8f6b-1348bd92103f" alt ="hi" width="95%" height="60%">
 
-<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/64474f6e-2e25-4906-9be3-0fd4a4951fb3" alt ="hii" width="95%" height="70%">
+<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/64474f6e-2e25-4906-9be3-0fd4a4951fb3" alt ="hii" width="95%" height="60%">
 
-<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/eba752cc-801b-4c69-b104-66e29e315740" alt ="hli" width="95%" height="70%">
+<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/eba752cc-801b-4c69-b104-66e29e315740" alt ="hli" width="95%" height="60%">
 
-<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/14e86c12-d415-4dea-8aeb-f30775369a62" alt ="hei" width="95%" height="70%">
+<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/14e86c12-d415-4dea-8aeb-f30775369a62" alt ="hei" width="95%" height="60%">
 
-<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/98461937-7349-417d-972d-b96c4ed2085c" alt ="hai" width="95%" height="70%">
+<img src="https://github.com/Naadira/Mobile-Application-Development/assets/128135126/98461937-7349-417d-972d-b96c4ed2085c" alt ="hai" width="95%" height="60%">
 
 ## RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
