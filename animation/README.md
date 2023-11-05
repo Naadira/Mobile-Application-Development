@@ -10,8 +10,21 @@ To develop a application to add animation to imageview,move,blink,fade,clockwise
 Android Studio(Latest Version)
 
 ## ALGORITHM:
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
+Step 2: Then type the Application name as AndroidAnimations and click Next.
 
+Step 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout in activity_main.xml.
+
+Step 6: Create separate xml files for move,blink,fade,clockwise,zoom and slide operation.
+
+Step 7: in MainActivity file.
+
+Step 8: Save and run the application.
 
 ## PROGRAM:
 ```
@@ -21,7 +34,7 @@ Developed by: NAADIRA SAHAR N
 Registeration Number : 212221220034
 */
 ```
-**XML CODEE:**
+**activity_xml:**
 
     <?xml version="1.0" encoding="utf-8"?>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -227,7 +240,7 @@ Registeration Number : 212221220034
         android:pivotY="25%" >
     </scale>
     </set>
-**MAIN ACTIVITY CODE:**
+**MainActivity.java:**
     
     package com.example.graphicsimplier;
 
@@ -329,3 +342,4 @@ Registeration Number : 212221220034
 
 
 ## RESULT:
+Thus, a Simple Android Application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and executed successfully.
