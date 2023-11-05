@@ -34,6 +34,7 @@ Developed by: NAADIRA SAHAR N
 Registeration Number : 212221220034
 */
 ```
+
 **activity_xml:**
 
     <?xml version="1.0" encoding="utf-8"?>
@@ -87,7 +88,6 @@ Registeration Number : 212221220034
         return true;
     }
     }
-
 
 ## OUTPUT:
 ![Xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/b7cc1ff6-2b96-469d-aa49-e1d5a95295ca) <br>
