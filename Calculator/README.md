@@ -32,7 +32,7 @@ Developed by: NAADIRA SAHAR N
 Registeration Number : 212221220034
 */
 ```
-##activity_xml:
+## activity_xml:
     <?xml version="1.0" encoding="utf-8"?>
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -95,7 +95,7 @@ Registeration Number : 212221220034
 
     </LinearLayout>
     
-##MainActivity.java:
+## MainActivity.java:
 
       package com.example.calculator;
 
