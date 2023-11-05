@@ -33,6 +33,7 @@ Registeration Number : 212221220034
 */
 ```
 ##activity_xml:
+
 '''
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -96,7 +97,9 @@ tools:context=".MainActivity">
 
 </LinearLayout>
 '''
+
 ##MainActivity.java:
+
 '''
   package com.example.calculator;
 
@@ -172,6 +175,7 @@ protected void onCreate(Bundle savedInstanceState) {
     });
 }
 }
+
 '''
 
 ## OUTPUT:
