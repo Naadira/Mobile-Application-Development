@@ -92,8 +92,8 @@ Registeration Number : 212221220034
 ## OUTPUT:
 ![Xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/b7cc1ff6-2b96-469d-aa49-e1d5a95295ca) <br>
 ![Main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/25badaf2-006c-4716-a599-cb60479fedf8) <br>
-<img src="https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/22986e9f-d347-47d1-84f9-f18af2edf0f7" alt="hi" width="95%" height="75%"> <br>
-<img src="https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/bfa5a2cf-ab10-4fa3-baf9-209bb4399137" alt="hii" width="95%" height="75%"> <br>
+<img src="https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/22986e9f-d347-47d1-84f9-f18af2edf0f7" alt="hi" width="80%" height="70%"> <br>
+<img src="https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/bfa5a2cf-ab10-4fa3-baf9-209bb4399137" alt="hii" width="80%" height="70%"> <br>
 
 ## RESULT:
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
